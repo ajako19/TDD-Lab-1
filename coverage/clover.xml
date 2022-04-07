@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1649291946914" clover="3.2.0">
+  <project timestamp="1649291946914" name="All files">
+    <metrics statements="8" coveredstatements="8" conditionals="14" coveredconditionals="14" methods="1" coveredmethods="1" elements="23" coveredelements="23" complexity="0" loc="8" ncloc="8" packages="1" files="1" classes="1"/>
+    <file name="scripts.js" path="C:\Users\Jakob\Desktop\Unit 5\tddlab1\scripts.js">
+      <metrics statements="8" coveredstatements="8" conditionals="14" coveredconditionals="14" methods="1" coveredmethods="1"/>
+      <line num="8" count="1" type="stmt"/>
+      <line num="10" count="10" type="stmt"/>
+      <line num="12" count="10" type="cond" truecount="7" falsecount="0"/>
+      <line num="13" count="5" type="stmt"/>
+      <line num="16" count="5" type="stmt"/>
+      <line num="18" count="12" type="cond" truecount="7" falsecount="0"/>
+      <line num="19" count="5" type="stmt"/>
+      <line num="25" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
